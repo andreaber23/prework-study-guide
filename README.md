@@ -14,7 +14,7 @@ To use this Prework Study Guide, you can review the notes in each section. For s
 
 ## Credits
 
-N/A
+Credits to andreaber23 for creating this Portfolio.
 
 ## License
 
